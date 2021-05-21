@@ -5,6 +5,6 @@ Includes diversity combining techniques with Monte Carlo Simulations.
 - Maximal Ratio Combining (MRC)
 - 2x1 Alamouti Scheme (Alamouti_Sch_21)
 - 2x2 Alamouti Scheme (Alamouti_Sch_22)
-- 2x2 MIMO(MIMO_22)
+- 2x2 MIMO (MIMO_22)
 
 See Wireless Communications by Goldsmith and Digital Communication over Fading Channels by Simon & Alouini, 2nd Ed.
